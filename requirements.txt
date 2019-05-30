@@ -1,0 +1,8 @@
+Package                   Version
+------------------------- -------
+Django                    2.2.1
+django-crispy-forms       1.7.2
+django-registration       3.0.1
+django-registration-redux 2.4
+mysqlclient               1.4.2
+PyMySQL                   0.9.3
